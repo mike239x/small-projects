@@ -1,2 +1,2 @@
 # small-projects
-a folder for some of my small projects which where pretty good
+The folder for some of my small projects which I really liked.
