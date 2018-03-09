@@ -59,7 +59,7 @@ def draw_circle(x,y):
 while 1:
     draw_maze(screen)
     maze_iter()
-    pygame.display.update()
+    pygame.display.flip()
     # print('step')
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
