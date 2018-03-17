@@ -1,0 +1,26 @@
+#stage 2: some solutions
+#part a: on the left:
+dr_sol(DISPLAYSURF, deriv, BLUE, (-5,80))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-75,200))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-75,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-150,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-225,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-300,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-300,-100))
+dr_sol(DISPLAYSURF, deriv, BLUE, (-300,-200))
+#part b: on the right:
+dr_sol(DISPLAYSURF, deriv, BLUE, (75,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (150,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (225,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (300,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (375,0))
+dr_sol(DISPLAYSURF, deriv, BLUE, (375,75))
+dr_sol(DISPLAYSURF, deriv, BLUE, (375,150))
+dr_sol(DISPLAYSURF, deriv, BLUE, (375,225))
+dr_sol(DISPLAYSURF, deriv, BLUE, (110,-110))
+dr_sol(DISPLAYSURF, deriv, BLUE, (110,-160))
+dr_sol(DISPLAYSURF, deriv, BLUE, (110,-240))
+#part 3: on the right top:
+dr_sol(DISPLAYSURF, deriv, BLUE, (5,150))
+dr_sol(DISPLAYSURF, deriv, BLUE, (50,200))
+dr_sol(DISPLAYSURF, deriv, BLUE, (100,200))
